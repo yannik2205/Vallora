@@ -1,0 +1,41 @@
+body{
+    font-family: Arial;
+}
+li{
+    color: #003366;
+    font-size: 16px;
+}
+p{
+    color: #003366;
+    font-size: 16px;
+}
+h1{
+    color: #339966;
+    font-size:24px;
+    border-bottom: 1px solid #339966;
+}
+h2{
+    color:#339966;
+    font-size: 20px;
+}
+.OverallUnorderd{
+    list-style: none;
+}
+.TabelleUeberschrift{
+    margin-left: 70px;
+    margin-bottom: 0px;
+}
+th{
+    font-weight: normal;
+    text-align: left;
+}
+.TabelleHeader{
+    font-weight: bold;
+    text-align: center;
+}
+table, th, td{
+    color: #003366;
+    border: 0.5px solid;
+    border-color: #003366;
+    border-collapse: collapse;
+}

@@ -1,0 +1,36 @@
+.h1class{
+    color: #339966;
+    font-size:24px;
+    border-bottom: 1px solid #339966;
+}
+.VerticalMenu{
+    border: black;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+.PunkteScroll{
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: unset;
+    text-decoration: none;
+}
+.PunkteScroll:active{
+    color: black;
+    display: block;
+    padding: unset;
+    text-decoration: none;
+}
+p{
+    color: #003366;
+    font-size: 16px;
+}
+body{
+    font-family: Arial;
+}
+.GroßeBox{
+    width: 400px;
+    height: 150px;
+    margin-bottom: 15px;
+}

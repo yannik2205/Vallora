@@ -3,7 +3,7 @@ body{
 }
 p{
 	color: #003366; 
-	font size: 16px;
+	font-size: 16px;
 }
 .h1class{
 	color: #339966;
@@ -11,6 +11,9 @@ p{
 	border-bottom: 1px solid #339966;
 }
 h2{
-	color:339966;
+	color:#339966;
 	font-size: 20px;
+}
+a{
+	margin-right: 2px;
 }

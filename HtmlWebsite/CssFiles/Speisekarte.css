@@ -1,0 +1,22 @@
+h1{
+    color: #339966;
+    font-size:24px;
+    border-bottom: 1px solid #339966;
+}
+h2{
+    color:#339966;
+    font-size: 20px;
+}
+.TabelleHeader{
+    font-weight: bold;
+    text-align: center;
+}
+table, th, td{
+    color: #003366;
+    border: 0.5px solid;
+    border-color: #003366;
+    border-collapse: collapse;
+}
+table{
+    margin-bottom: 15px;
+}
