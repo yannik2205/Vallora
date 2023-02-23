@@ -1,0 +1,19 @@
+body{
+	font-family:Arial;
+}
+.BilderRow{
+	margin-right:5px;
+	height:110px;
+}
+.TextBallon{
+	margin-bottom:0px;
+}
+.TextKirchen{
+	margin-bottom:0px;
+}
+.TextBootsfahrt{
+	margin-bottom:0px;
+}
+.TextTour{
+	margin-bottom:0px;
+}
